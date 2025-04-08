@@ -80,3 +80,17 @@
   
   ### Example 
   <img src="images/defense_examples.png" width="75%" height="75%"> 
+
+## Citation
+We would appreciate it if you could cite our work when using our code.
+
+```bibtex
+@inproceedings{juraev2024unmasking,
+  title={Unmasking the Vulnerabilities of Deep Learning Models: A Multi-Dimensional Analysis of Adversarial Attacks and Defenses},
+  author={Juraev, Firuz and Abuhamad, Mohammed and Chan-Tin, Eric and Thiruvathukal, George K and Abuhmed, Tamer},
+  booktitle={2024 Silicon Valley Cybersecurity Conference (SVCC)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}
+```
